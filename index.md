@@ -3,25 +3,24 @@ layout: default
 title: PMDA Summer School
 ---
 
-## Roche Predictive Modeling and Data Analytics Summer School 2023
+## Roche Predictive Modeling and Data Analytics Summer School 2024
 
 ### Important information in a nutshell
 
-* **Event**: Roche PMDA Summer School 2023
-* **Date**: 7th-11th of August, 2023
+* **Event**: Roche PMDA Summer School 2024
+* **Date**: 5th-9th of August, 2024
 * **Location**: Roche Innovation Center Basel, Grenzacherstrasse 124, F.Hoffmann
 La-Roche Ltd. *In-person only, no virtual option*
 * **Eligibility**: PhD or exceptional master students with relevant background
 enrolled in a Swiss university
-* **Topic**: Computational toxicology (more details follow)
+* **Topic**: 
 * **Daily working time**: 8:30-17:30 with a lunch break
 * **Working language**: English
 * **Cost**: Free. *Insurance and accommodation is the responsibility of the
 participants.*
 * **Timeline**: Registration is open until July 7th. Decisions will be shared by
 July 15th.
-* **Registration**: [Google Form (Google account
-required)](https://forms.gle/JNE8pEoJE2PFoc4k7)
+* **Registration**: 
 * **Contact**: jitao_david.zhang (at) roche (dot) com
 
 ### Introduction
