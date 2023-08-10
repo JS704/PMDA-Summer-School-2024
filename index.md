@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PMDA Summer School
+title: PMDA Summer School 2024
 ---
 
 ## Roche Predictive Modeling and Data Analytics Summer School 2024
@@ -28,7 +28,7 @@ July 15th.
 Roche PMDA Summer School is a one-week in-person event for PhD students
 interested in learning and applying predictive modelling and data analytics to
 problems in drug discovery and development. It will take place between August
-7th and 11th in Basel at the Roche campus.
+5th and 9th in Basel at the Roche campus.
 
 The summer school is organised and sponsored by the **Predictive Modeling and
 Data Analytics** (PMDA) chapter, a multidisciplinary team in the department of
@@ -39,7 +39,7 @@ pharmacodynamic studies, biomarkers, and toxicology and safety.
 
 ### Topic
 
-The topic of the PMDA summer school 2023 is **computational toxicology** in drug
+The topic of the PMDA summer school 2024 is **computational toxicology** in drug
 discovery. The participants will work in teams to analyze and model data and
 integrate prior knowledge, with the goal of improving our understanding of
 safety profiles of drug candidates. More details shall follow.
