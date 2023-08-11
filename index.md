@@ -55,7 +55,7 @@ To apply, please use the link below. You need a Google account to register.
 During the application, you will need to submit a CV and a motivation letter as
 two PDF files. You can also provide up to two contact persons as your reference *optionally*.
 
-[Link for registration (Google account required)](https://forms.gle/JNE8pEoJE2PFoc4k7)
+Link for Registration will be available in 2024. 
 
 Please contact jitao_david.zhang (at) roche (dot) com in case of
 questions.
